@@ -6,6 +6,7 @@ Topics:
   - "[[archeology]]"
 Link: https://folk.uib.no/hlils/TBLR-B/Benjamin-ExcavMem.pdf
 ---
+Topics: [[remembering]], [[archeology]]
 
 # Benjamin, Walter - Excavation and Memory
 

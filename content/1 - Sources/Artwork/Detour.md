@@ -10,6 +10,8 @@ Topics:
   - "[[url]]"
 Link: http://www.matthewbuckingham.net/detour.htm
 ---
+Topics: [[info-propagation]], [[transition]], [[url]]
+
 # Detour
 
 [![pic 1](http://www.matthewbuckingham.net/images/detour1.jpg)](http://www.matthewbuckingham.net/images/detour1.jpg)

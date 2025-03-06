@@ -7,6 +7,7 @@ Topics:
   - "[[forgetting]]"
 Link: Ficciones
 ---
+Topics: [[literature]], [[info-propagation]], [[forgetting]]
 
 # Borges, Jorge Luis - Tlön, Uqbar, Orbis Tertius
 

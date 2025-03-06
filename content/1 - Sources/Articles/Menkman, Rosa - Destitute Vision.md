@@ -6,6 +6,8 @@ Topics:
   - "[[artificial intelligence]]"
 Link: https://beyondresolution.info/DESTITUTE-VISION
 ---
+Topics: [[image-resolution]], [[artificial intelligence]]
+
 # Menkman, Rosa - Destitute Vision
 
 > Computer vision and Generative Adversarial Networks (GANs) use synthesised datasets to train on. A process that redefines the traditional scope of capture (which used to be constrained by spectral, spatial, or temporal parameters) introducing synthetic datasets as a new parameter of scope. A process of recursive synthesis that ultimately leads to ‘limitless’ quantitative (but not qualitative) resolution: synthetic resolution is optimised for efficiency and automation, while alienating the human viewer as it transforms visual information into constructs that no longer resemble a traditional image.

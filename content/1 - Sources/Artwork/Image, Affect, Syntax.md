@@ -10,6 +10,8 @@ Topics:
   - "[[diy]]"
 Link: https://anaviktoriadzinic.com/Image-Affect-Syntax
 ---
+Topics: [[poor image]], [[social media]], [[diy]]
+
 # Image, Affect, Syntax
 
 ![](https://indie-mag.com/wp-content/uploads/2023/09/image00001-715x1024.jpg)

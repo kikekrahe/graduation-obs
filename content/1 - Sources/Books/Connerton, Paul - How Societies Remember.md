@@ -6,6 +6,7 @@ Topics:
   - "[[remembering]]"
 Link:
 ---
+Topics: [[collective memory]], [[remembering]]
 
 # Connerton, Paul - How Societies Remember
 

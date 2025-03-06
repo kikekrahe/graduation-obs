@@ -6,6 +6,7 @@ Topics:
   - "[[info-propagation]]"
 Link: The Essential McLuhan
 ---
+Topics: [[transition]], [[info-propagation]]
 
 # McLuhan, Marshall - The Gutenberg Galaxy
 
