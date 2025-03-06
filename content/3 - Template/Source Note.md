@@ -1,4 +1,6 @@
 ---
+Title: "{{Title}}"
+Draft: false
 Topics: 
 Link:
 ---

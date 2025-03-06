@@ -1,4 +1,6 @@
 ---
+Title: Menkman, Rosa - Destitute Vision
+Draft: false
 Topics:
   - "[[image-resolution]]"
   - "[[artificial intelligence]]"

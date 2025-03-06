@@ -1,4 +1,6 @@
 ---
+Title: Image, Affect, Syntax
+Draft: false
 Year: 2023
 Artist: Ana Viktoria Dzinic
 Country: United States

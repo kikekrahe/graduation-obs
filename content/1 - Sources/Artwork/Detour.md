@@ -1,4 +1,6 @@
 ---
+Title: Detour
+Draft: false
 Year: 2002
 Artist: Matthew Buckingham
 Country: United States

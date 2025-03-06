@@ -1,4 +1,6 @@
 ---
+Title: Connerton, Paul - How Societies Remember
+Draft: false
 Topics:
   - "[[collective memory]]"
   - "[[remembering]]"

@@ -1,4 +1,6 @@
 ---
+Title: McLuhan, Marshall - The Gutenberg Galaxy
+Draft: false
 Topics:
   - "[[transition]]"
   - "[[info-propagation]]"
