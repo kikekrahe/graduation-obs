@@ -12,7 +12,7 @@ Link: https://anaviktoriadzinic.com/Image-Affect-Syntax
 
 ![](https://indie-mag.com/wp-content/uploads/2023/09/image00001-715x1024.jpg)
 
-![[Pasted image 20250304203822.png]]
+![[AVD2.png]]
 
 An homage to the digitalisation of the image and its existence within our present, Image, Affect, Syntax arranges a series of images in an Instagram grid-like matrix. The image in itself is not so much the product but rather the post-production and context of which. In an age dominated by images, this helps reflect their current status as a tool rather than a outcome in and of itself.
 
