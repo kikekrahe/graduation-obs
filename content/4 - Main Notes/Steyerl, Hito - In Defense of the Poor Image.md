@@ -1,10 +1,11 @@
 ---
-Title: "Steyerl, Hito - In Defense of the Poor Image"
+Title: Steyerl, Hito - In Defense of the Poor Image
 Draft: false
 Topics: 
-Link:
+Link: 
+tags:
 ---
-Topics: [[poor image]]
+Topics: [[poor image]], [[digital image]]
 
 # Steyerl, Hito - In Defense of the Poor Image
 

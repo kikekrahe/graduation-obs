@@ -5,6 +5,7 @@ Topics:
 Draft: false
 Link: https://murrayguy.com/wp-content/uploads/2012/05/Godfrey.October.07.pdf
 Title: Godfrey, Mark - The Artist as Historian
+tags:
 ---
 Topics: [[history-making]], [[info-propagation]]
 

@@ -5,6 +5,7 @@ Topics:
   - "[[transition]]"
   - "[[info-propagation]]"
 Link: The Essential McLuhan
+tags:
 ---
 Topics: [[transition]], [[info-propagation]]
 

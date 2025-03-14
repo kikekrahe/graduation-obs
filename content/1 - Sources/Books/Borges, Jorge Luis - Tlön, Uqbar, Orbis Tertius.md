@@ -6,6 +6,7 @@ Topics:
   - "[[info-propagation]]"
   - "[[forgetting]]"
 Link: Ficciones
+tags:
 ---
 Topics: [[literature]], [[info-propagation]], [[forgetting]]
 

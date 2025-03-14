@@ -4,7 +4,8 @@ Draft: false
 Topics:
   - "[[collective memory]]"
   - "[[remembering]]"
-Link:
+Link: 
+tags:
 ---
 Topics: [[collective memory]], [[remembering]]
 

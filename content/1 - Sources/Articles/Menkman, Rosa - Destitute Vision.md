@@ -5,8 +5,9 @@ Topics:
   - "[[image-resolution]]"
   - "[[artificial intelligence]]"
 Link: https://beyondresolution.info/DESTITUTE-VISION
+tags:
 ---
-Topics: [[image-resolution]], [[artificial intelligence]]
+Topics: [[image-resolution]], [[artificial intelligence]], [[digital image]]
 
 # Menkman, Rosa - Destitute Vision
 

@@ -1,8 +1,9 @@
 ---
-Title: "Proust, Marcel - Swann's Way"
+Title: Proust, Marcel - Swann's Way
 Draft: false
 Topics: 
-Link:
+Link: 
+tags:
 ---
 
 # Proust, Marcel - Swann's Way

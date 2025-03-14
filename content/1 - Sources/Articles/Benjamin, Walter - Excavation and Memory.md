@@ -1,6 +1,7 @@
 ---
 Title: Benjamin, Walter - Excavation and Memory
 Draft: false
+tags: []
 Topics:
   - "[[remembering]]"
   - "[[archeology]]"

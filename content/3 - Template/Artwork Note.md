@@ -5,8 +5,11 @@ Year:
 Artist: 
 Country: 
 Topics: 
-Link:
+Link: 
+tags:
 ---
+Topics: 
+
 # {{Title}}
 
 

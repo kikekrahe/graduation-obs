@@ -9,6 +9,7 @@ Topics:
   - "[[transition]]"
   - "[[url]]"
 Link: http://www.matthewbuckingham.net/detour.htm
+tags:
 ---
 Topics: [[info-propagation]], [[transition]], [[url]]
 

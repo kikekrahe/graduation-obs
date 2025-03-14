@@ -2,8 +2,10 @@
 Title: "{{Title}}"
 Draft: false
 Topics: 
-Link:
+Link: 
+tags:
 ---
+Topics: 
 
 # {{Title}}
 

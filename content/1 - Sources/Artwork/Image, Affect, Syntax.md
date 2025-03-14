@@ -9,8 +9,9 @@ Topics:
   - "[[social media]]"
   - "[[diy]]"
 Link: https://anaviktoriadzinic.com/Image-Affect-Syntax
+tags:
 ---
-Topics: [[poor image]], [[social media]], [[diy]]
+Topics: [[poor image]], [[social media]], [[diy]], [[digital image]]
 
 # Image, Affect, Syntax
 
