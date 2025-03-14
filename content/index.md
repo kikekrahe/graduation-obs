@@ -2,3 +2,5 @@
 
 This is the homepage of my Obsidian Vault, published using Quartz.
 
+See [[Logbook]] for... a logbook.
+
