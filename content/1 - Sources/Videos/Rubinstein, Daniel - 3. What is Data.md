@@ -39,6 +39,7 @@ In other words, the digital image, with its capacity for manipulation, simulatio
 In this post-modern digital age, the self is no longer a stable, unified entity. Instead, it's fragmented across different platforms and spaces, rather a **dividual** than an individual. This dividual is constantly reconfigured by the networks and infrastructures in which it participates.
 
 
+The balance we have when our physical and digital worlds coexist; our ability to feel a certain materiality and 'homeliness' associated with these non-existent spaces in the digital, Rubinstein argues, points back to our 300-year old connection as humans to systems of visual representation as a form of understanding the world. He alludes that the usage of digital images and their ability of representation and association are prime factors which facilitate this coexistence. Digital images are made to be somewhat familiar, however the expansive architecture upon which they are born unveil a deep disconnection between this representation and the actual image. 
 
 # References
 
